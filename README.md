@@ -9,8 +9,8 @@ Como colocar uma imagem no perfil do GitHub
 Para incluir uma imagem no seu perfil siga os comando as seguir.
 
 1. Primeiro passo abra o seu repositório Readme.md especial
-2. clique no menu issues
-3. clique no botão "verde" New issue
+2. Clique no menu issues
+3. Clique no botão "verde" New issue
 4. Arraste a imagem do seu repositório local para dentro da caixa de menssagem do issue
 5. Copie o código que esta dentro da caixa de menssagem 
 6. Cole esse código dentro do editor do seu readme.md especial e por último basta dar um commit. 
