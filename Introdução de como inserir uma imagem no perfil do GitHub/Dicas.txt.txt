@@ -1,0 +1,5 @@
+Links de referências para personalizar perfil do GitHub
+
+-Repositório do Github Stats: https://github.com/anuraghazra/github-readme-stats
+-Site de Badges: https://dev.to/envoy_/150-badges-for-github-pnk
+-Emoji:https://emojipedia.org/
