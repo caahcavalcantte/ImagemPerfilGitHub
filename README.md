@@ -32,4 +32,4 @@ Para incluir uma imagem no seu perfil siga os comando as seguir.
 
 ## Obs: Lembre-se de colar o código no seu repositório Readme.md especial (special repository)
 ![readme especial](https://user-images.githubusercontent.com/101530916/169628217-9a6b13a0-d565-4e00-848f-7f4a130dda39.jpg)
->>>>>>> 98085b46758a6485f5d189586acd2e3e70972287
+
