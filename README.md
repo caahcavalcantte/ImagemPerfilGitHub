@@ -14,10 +14,6 @@ Para incluir uma imagem no seu perfil siga os comando as seguir.
 3. Clique no botão "verde" New issue
 4. Arraste a imagem do seu repositório local para dentro da caixa de menssagem do issue
 5. Copie o código que esta dentro da caixa de menssagem 
-<<<<<<< HEAD
-6. Cole esse código dentro do editor do seu readme.md especial e por último basta dar um commit. 
-
-=======
 6. Cole esse código dentro do editor do seu readme.md especial e por último basta dar um commit. <br><br>
 
 
@@ -32,4 +28,3 @@ Para incluir uma imagem no seu perfil siga os comando as seguir.
 
 ## Obs: Lembre-se de colar o código no seu repositório Readme.md especial (special repository)
 ![readme especial](https://user-images.githubusercontent.com/101530916/169628217-9a6b13a0-d565-4e00-848f-7f4a130dda39.jpg)
->>>>>>> 98085b46758a6485f5d189586acd2e3e70972287
