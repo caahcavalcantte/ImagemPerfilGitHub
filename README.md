@@ -4,7 +4,7 @@ Como colocar uma imagem no perfil do GitHub
 ## Exemplo:<br><br>
 
 ![jackson-so-_t-l5FFH8VA-unsplash](https://user-images.githubusercontent.com/101530916/169628865-95ae51c8-34e7-4a7e-b2fb-bf3911dc7dfe.jpg)
-<br><br>
+<br>
 
 ## Passo a passo:
 Para incluir uma imagem no seu perfil siga os comando as seguir.
